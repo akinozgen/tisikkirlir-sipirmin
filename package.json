@@ -1,0 +1,12 @@
+{
+  "name": "tisikkirlir-sipirmin",
+  "version": "0.1.0",
+  "description": "Teşekkürler Süpermen parodi replacer",
+  "main": "main.js",
+  "repository": "https://github.com/AknOzgen/tisikkirlir-sipirmin.git",
+  "author": "Akın Özgen <akinozgen17@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
